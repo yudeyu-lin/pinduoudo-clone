@@ -32,9 +32,7 @@ a:hover {
 }
 
 
-/* 导航栏 */
 
-/* 原代码中有两段重复的 .logo 和 .nav，请删除一段，然后修改为： */
 .logo {
     float: left;
     margin-left: 47px;
@@ -46,7 +44,7 @@ a:hover {
 }
 .nav {
     float: left;
-    margin-top: 33px;   /* 调整垂直对齐：Logo 的 margin-top:20px + 部分偏移 */
+    margin-top: 33px;   
     margin-left: 50px;
     margin-bottom: 30px;
 }
